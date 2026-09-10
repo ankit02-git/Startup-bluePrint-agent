@@ -1,0 +1,109 @@
+MARKET RESEARCH AND COMPETITIVE ANALYSIS GUIDE
+
+=== MARKET SIZING FRAMEWORKS ===
+
+TAM, SAM, SOM Model:
+- TAM (Total Addressable Market): The total global demand for your product/service
+  Example: Global CRM market TAM = $80B
+- SAM (Serviceable Addressable Market): Portion of TAM you can realistically serve
+  Example: SMB CRM market in North America = $20B
+- SOM (Serviceable Obtainable Market): Realistic capture in 3-5 years
+  Example: Target 1% of SAM = $200M
+
+Market Sizing Approaches:
+1. Top-down: Start with industry reports, narrow down to your segment
+2. Bottom-up: Unit economics × total potential customers
+3. Value-based: What customers are currently spending on the problem
+
+=== INDUSTRY VERTICALS AND MARKET SIZES ===
+
+TECHNOLOGY & SOFTWARE:
+- Global SaaS market: $273B (2023), growing at 18% CAGR
+- Cybersecurity: $172B (2023), growing at 14% CAGR
+- AI/ML platforms: $142B (2023), growing at 38% CAGR
+- Cloud computing: $545B (2023), growing at 17% CAGR
+- EdTech: $254B (2023), growing at 16% CAGR
+
+HEALTHCARE & BIOTECH:
+- Digital health: $240B (2023), growing at 18% CAGR
+- Telemedicine: $115B (2023), growing at 24% CAGR
+- MedTech devices: $530B (2023), growing at 6% CAGR
+- Healthtech AI: $45B (2023), growing at 44% CAGR
+
+FINTECH:
+- Global fintech market: $310B (2023), growing at 25% CAGR
+- Digital payments: $110B (2023)
+- Neobanking: $66B (2023), growing at 47% CAGR
+- InsurTech: $10B (2023), growing at 35% CAGR
+- WealthTech: $5.3B (2023), growing at 14% CAGR
+
+E-COMMERCE & RETAIL:
+- Global e-commerce: $6.3T (2023), growing at 14% CAGR
+- D2C brands: $175B (2023), growing at 19% CAGR
+- Social commerce: $1.3T (2023), growing at 31% CAGR
+
+SUSTAINABILITY & CLEANTECH:
+- Global cleantech market: $470B (2023), growing at 11% CAGR
+- Solar energy: $284B (2023)
+- EV market: $457B (2023), growing at 17% CAGR
+- Carbon credits market: $900B projected by 2030
+
+FOOD & AGRITECH:
+- AgriTech market: $24B (2023), growing at 12% CAGR
+- FoodTech: $342B (2023)
+- Plant-based food: $29B (2023), growing at 19% CAGR
+
+=== COMPETITIVE ANALYSIS FRAMEWORKS ===
+
+PORTER'S FIVE FORCES:
+1. Threat of new entrants (barriers to entry: IP, capital requirements, brand loyalty)
+2. Bargaining power of buyers (switching costs, alternatives available)
+3. Bargaining power of suppliers (concentration, uniqueness of inputs)
+4. Threat of substitutes (alternative solutions to the same problem)
+5. Industry rivalry (number of competitors, growth rate, differentiation)
+
+SWOT ANALYSIS COMPONENTS:
+- Strengths: Unique technology, cost advantage, strong team, IP
+- Weaknesses: Limited funding, small team, no brand recognition
+- Opportunities: Emerging market, regulatory change, technology shift
+- Threats: Established competitors, market saturation, regulatory risk
+
+COMPETITOR MAPPING DIMENSIONS:
+- Price vs. Quality matrix
+- Feature completeness vs. Ease of use
+- Enterprise vs. SMB vs. Consumer focus
+- Geographic coverage
+
+=== CUSTOMER RESEARCH METHODS ===
+
+Qualitative:
+- Customer discovery interviews (aim for 50+ interviews)
+- Focus groups (8-10 participants)
+- Ethnographic observation
+- User journey mapping
+
+Quantitative:
+- Surveys (minimum 200 responses for statistical significance)
+- A/B testing
+- Cohort analysis
+- NPS (Net Promoter Score) tracking
+
+Jobs-to-be-Done (JTBD) Framework:
+- Functional job: What task needs completing?
+- Emotional job: How does the customer want to feel?
+- Social job: How does the customer want to be perceived?
+
+=== MARKET ENTRY STRATEGIES ===
+
+Blue Ocean Strategy: Create uncontested market space
+Niche Domination: Own a specific vertical before expanding
+Disruptive Innovation: Target overlooked segments with simpler, cheaper solutions
+Platform Strategy: Build network effects through ecosystem thinking
+
+=== KEY MARKET RESEARCH SOURCES ===
+- Statista, IBISWorld, Grand View Research (paid industry reports)
+- CB Insights, PitchBook, Crunchbase (funding and market data)
+- Google Trends, SEMrush, SimilarWeb (digital market intelligence)
+- LinkedIn Sales Navigator (B2B market mapping)
+- Reddit, Quora, Product Hunt (community-driven customer insight)
+- Government census and economic data (free)
