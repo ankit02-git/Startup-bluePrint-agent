@@ -18,11 +18,11 @@ _API_DIR = Path(__file__).parent
 KNOWLEDGE_BASE_DIR = _API_DIR / "knowledge_base"
 VECTOR_STORE_PATH = Path("/tmp/vector_store.json")
 
-# slate-30m confirmed working on IBM Cloud Lite plan
-# Alternative: ibm/slate-125m-english-rtrvr-v2 (larger, more accurate)
+# slate-30m max context: 512 tokens (~350 words). Keep chunks well under that.
 EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL_ID", "ibm/slate-30m-english-rtrvr-v2")
-CHUNK_SIZE = 600
-CHUNK_OVERLAP = 100
+CHUNK_SIZE    = 300   # words per chunk — ~400 tokens, safely under 512 limit
+CHUNK_OVERLAP = 50    # overlapping words between chunks
+MAX_WORDS_PER_EMBED = 300   # hard truncation before sending to API
 
 
 def chunk_text(text: str, chunk_size: int = CHUNK_SIZE, overlap: int = CHUNK_OVERLAP) -> List[str]:
@@ -74,9 +74,12 @@ def _get_ibm_embeddings(texts: List[str]) -> List[List[float]]:
     all_vectors: List[List[float]] = []
     batch_size = 20
     for i in range(0, len(texts), batch_size):
-        batch = texts[i: i + batch_size]
+        # Hard-truncate each text to MAX_WORDS_PER_EMBED words before sending
+        batch = [
+            " ".join(t.split()[:MAX_WORDS_PER_EMBED])
+            for t in texts[i: i + batch_size]
+        ]
         response = embedder.embed_documents(texts=batch)
-        # response is a list of embedding vectors
         all_vectors.extend(response)
 
     return all_vectors
@@ -133,7 +136,9 @@ class RAGEngine:
         self._ensure_loaded()
 
         logger.info("Embedding query via IBM watsonx...")
-        query_vec = _get_ibm_embeddings([query])[0]
+        # Truncate query too — same 512-token limit applies
+        truncated_query = " ".join(query.split()[:MAX_WORDS_PER_EMBED])
+        query_vec = _get_ibm_embeddings([truncated_query])[0]
 
         scores = [
             (item["text"], item["source"],
