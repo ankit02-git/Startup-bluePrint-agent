@@ -1,0 +1,103 @@
+STARTUP FUNDING GUIDE - COMPREHENSIVE REFERENCE
+
+=== FUNDING STAGES ===
+
+1. PRE-SEED FUNDING ($10K - $250K)
+   - Bootstrapping: Using personal savings, credit cards, or loans from family/friends
+   - Angel investors: High net-worth individuals investing $25K-$500K in early-stage ideas
+   - Startup competitions: Prizes ranging from $10K to $250K (e.g., TechCrunch Disrupt, Y Combinator Startup School)
+   - Government grants: SBIR, STTR grants (US), Startup India Seed Fund (India)
+   - Typical use: Prototype development, market validation, MVP creation
+
+2. SEED FUNDING ($500K - $2M)
+   - Seed-stage VCs: Firms like Sequoia Seed, First Round Capital, Initialized Capital
+   - Angel syndicates: AngelList syndicates, SeedInvest, Republic
+   - Accelerators: Y Combinator ($500K for 7%), Techstars ($120K for 6%), 500 Startups
+   - Typical use: Product launch, initial hiring, early customer acquisition
+
+3. SERIES A ($2M - $15M)
+   - Lead VC firms: Sequoia Capital, Andreessen Horowitz, Benchmark, Accel
+   - Typical metrics required: $1M ARR, strong product-market fit, 3x YoY growth
+   - Average dilution: 20-30%
+   - Typical use: Scale marketing, expand team, enter new markets
+
+4. SERIES B ($15M - $50M)
+   - Larger VC firms and growth equity investors
+   - Required: Proven business model, $5M+ ARR, clear path to profitability
+   - Typical use: Geographic expansion, acquisitions, aggressive hiring
+
+5. SERIES C+ ($50M+)
+   - Private equity, hedge funds, late-stage VCs
+   - Pre-IPO growth capital
+   - Typical use: IPO preparation, international expansion, market dominance
+
+=== GOVERNMENT FUNDING SCHEMES ===
+
+INDIA:
+- Startup India Seed Fund Scheme (SISFS): Up to INR 50 lakhs for proof-of-concept
+- Fund of Funds for Startups (FFS): INR 10,000 crore corpus managed by SIDBI
+- Atal Innovation Mission (AIM): Grants for deep-tech startups
+- DPIIT Recognition: Tax exemptions, easier patent filing, access to government tenders
+- Mudra Loans: Up to INR 10 lakhs for micro-enterprises (Shishu, Kishore, Tarun)
+- Stand-Up India: Loans between INR 10 lakhs to INR 1 crore for SC/ST/women entrepreneurs
+
+US:
+- SBIR (Small Business Innovation Research): Phase I up to $275K, Phase II up to $1.83M
+- STTR (Small Business Technology Transfer): Similar to SBIR with university partnerships
+- SBA 7(a) Loans: Up to $5M for eligible small businesses
+- USDA Rural Business Grants: For rural-area startups
+
+EUROPE:
+- Horizon Europe: €95.5 billion research and innovation framework
+- EIC Accelerator: Up to €2.5M grant + €15M equity
+- InnovFin: EIB Group loans and guarantees for innovative companies
+
+=== KEY INCUBATORS AND ACCELERATORS ===
+
+GLOBAL TOP TIER:
+- Y Combinator (YC): $500K funding, 3-month program, 7% equity, alumni network of 4000+ companies
+- Techstars: $120K for 6% equity, global network, 3-month program
+- 500 Startups: $150K for 6% equity, strong in emerging markets
+- Seedcamp: Europe-focused, €200K for 8-10% equity
+
+INDIA:
+- T-Hub (Hyderabad): India's largest startup incubator, government-backed
+- NASSCOM 10,000 Startups: IT-focused, mentorship + funding access
+- IIM Ahmedabad CIIE: Strong in social enterprise and deep-tech
+- IIT Bombay Society for Innovation and Entrepreneurship (SINE)
+- Startup Village (Kerala): Focus on hardware and IoT startups
+
+IBM PROGRAMS:
+- IBM Hyper Protect Accelerator: For health and financial services startups
+- IBM Alpha Zone Accelerator: Israel-based, global focus
+- IBM Ventures: Investment arm for strategic startup partnerships
+- IBM SkillsBuild for Entrepreneurs: Free access to IBM Cloud, watsonx credits
+
+=== INVESTOR TYPES AND WHAT THEY LOOK FOR ===
+
+Angel Investors:
+- Team quality (60% weight)
+- Market size (20% weight)
+- Early traction (20% weight)
+- Expected return: 10-30x in 5-7 years
+
+Venture Capital:
+- Scalable business model
+- Large addressable market ($1B+)
+- Defensible competitive advantage (moat)
+- Strong founding team with domain expertise
+- Clear path to exit (IPO or acquisition)
+- Target return: 3-10x fund
+
+Corporate Venture Capital (CVC):
+- Strategic fit with parent company
+- Technology differentiation
+- Partnership opportunities
+- IBM Ventures, Google Ventures, Intel Capital, Salesforce Ventures
+
+=== FUNDRAISING TIPS ===
+- Build a strong data room: pitch deck, financial model, cap table, team bios
+- Warm intros outperform cold outreach by 400%
+- Valuation benchmarks: Pre-seed 2-5x revenue multiple, Seed 5-10x, Series A 10-20x ARR
+- Convertible notes: SAFE (Simple Agreement for Future Equity) for early rounds
+- Due diligence prep: Clean financials, IP ownership, incorporation documents

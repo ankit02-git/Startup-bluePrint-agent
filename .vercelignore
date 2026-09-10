@@ -1,0 +1,17 @@
+# Skip local backend (Vercel uses api/ folder instead)
+backend/venv/
+backend/__pycache__/
+backend/vector_store.json
+backend/chroma_db/
+
+# Skip frontend dev artifacts
+frontend/node_modules/
+
+# Python cache
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+
+# OS
+.DS_Store
+Thumbs.db

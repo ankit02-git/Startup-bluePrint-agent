@@ -1,0 +1,170 @@
+LEGAL REQUIREMENTS AND REGULATORY COMPLIANCE FOR STARTUPS
+
+=== BUSINESS ENTITY TYPES ===
+
+UNITED STATES:
+1. Sole Proprietorship
+   - Simplest, no formal filing required
+   - Personal liability for all debts
+   - Not suitable for funded startups
+
+2. LLC (Limited Liability Company)
+   - Limited personal liability
+   - Pass-through taxation
+   - Flexible management structure
+   - Cost: $50-500 state filing fee
+   - Best for: Small teams, service businesses
+
+3. C-Corporation (C-Corp)
+   - Required for VC funding (preferred structure)
+   - Double taxation (corporate + dividend)
+   - Delaware C-Corp is industry standard (75% of VC-backed startups)
+   - Allows multiple stock classes (common + preferred)
+   - Delaware filing cost: ~$90 + registered agent fee
+
+4. S-Corporation
+   - Pass-through taxation like LLC
+   - Limited to 100 shareholders, only US citizens
+   - Not suitable for VC investment
+
+INDIA:
+1. Private Limited Company (Pvt Ltd)
+   - Most popular for funded startups
+   - Minimum 2 directors, 2 shareholders
+   - Required documents: MoA, AoA, PAN, TAN
+   - Registration cost: INR 7,000-15,000
+   - ROC registration with Ministry of Corporate Affairs
+
+2. LLP (Limited Liability Partnership)
+   - Good for professional services
+   - Lower compliance burden than Pvt Ltd
+   - Not eligible for DPIIT Startup India recognition for tax benefits
+
+3. OPC (One Person Company)
+   - Single founder company
+   - No need for second director
+   - Annual turnover cap: INR 2 crore
+
+DPIIT STARTUP RECOGNITION (INDIA):
+- Eligibility: Incorporated within last 10 years
+- Annual turnover < INR 100 crore in any year
+- Working towards innovation/improvement of products/services
+- Benefits: 3 years tax holiday, easier compliance, fast-track patent processing
+
+=== INTELLECTUAL PROPERTY PROTECTION ===
+
+PATENTS:
+- Utility patent: Protects functional inventions (20-year protection)
+- Design patent: Protects ornamental design (15 years in US)
+- Provisional patent: 12-month placeholder, $320 USD filing fee (small entity)
+- PCT (Patent Cooperation Treaty): File once, protect in 150+ countries
+- India patent filing: INR 1,600-4,000 for startup/MSME
+- Timeline: 2-4 years for grant
+- Important: File BEFORE any public disclosure
+
+TRADEMARKS:
+- Protects brand name, logo, tagline
+- US filing fee: $250-350 per class
+- India filing fee: INR 4,500 per class (startup)
+- Common law trademark rights exist from first use
+- Register early to prevent squatting
+
+COPYRIGHT:
+- Automatic upon creation of original work
+- Software, content, artistic works
+- US Copyright Office registration: $65
+- Strengthens legal standing in infringement cases
+
+TRADE SECRETS:
+- NDA agreements with employees, contractors, partners
+- Non-compete clauses (enforceability varies by state)
+- Documented internal security policies
+
+=== KEY LEGAL DOCUMENTS FOR STARTUPS ===
+
+FOUNDERS:
+1. Founders' Agreement
+   - Equity split and vesting schedule (4 years, 1-year cliff standard)
+   - Roles and responsibilities
+   - IP assignment to company
+   - Non-compete and non-solicitation
+   
+2. Share Vesting Agreement
+   - Standard: 4-year vesting with 1-year cliff
+   - Accelerated vesting triggers (acquisition, termination)
+
+EMPLOYEES & CONTRACTORS:
+1. Employment Agreement
+   - At-will employment (US), notice periods (India: 30-90 days)
+   - IP assignment clause (critical)
+   - Non-disclosure agreement
+   - Compensation and benefits
+
+2. Contractor/Freelancer Agreement
+   - Work-for-hire clause
+   - IP ownership transfer
+   - Payment terms and milestones
+
+INVESTORS:
+1. SAFE Note (Simple Agreement for Future Equity)
+   - YC-standard early stage investment instrument
+   - No interest, no maturity date, converts at next priced round
+   - Common terms: Valuation cap ($1-10M) and/or discount (15-25%)
+
+2. Convertible Note
+   - Debt instrument converting to equity
+   - Interest rate (typically 4-8% per year)
+   - Maturity date (12-24 months)
+   - Conversion discount (15-25%)
+
+3. Term Sheet
+   - Non-binding document outlining key investment terms
+   - Pre-money valuation, investment amount, equity %
+   - Board composition, pro-rata rights, information rights
+
+4. SHA (Shareholders' Agreement)
+   - Tag-along, drag-along rights
+   - Anti-dilution provisions (weighted average vs. full ratchet)
+   - Right of first refusal (ROFR)
+   - Voting rights and board composition
+
+CUSTOMER/VENDOR:
+1. Terms of Service & Privacy Policy (mandatory for all digital products)
+   - GDPR compliance (EU users): Data processing agreements, consent mechanisms
+   - CCPA compliance (California users)
+   - India IT Act and PDPB compliance
+
+2. Master Service Agreement (MSA) for B2B
+3. SLA (Service Level Agreement) for SaaS products
+
+=== REGULATORY COMPLIANCE BY INDUSTRY ===
+
+FINTECH:
+- US: SEC registration (if securities), FinCEN (money transmission), CFPB
+- India: RBI regulations, SEBI (if investment), IRDAI (if insurance)
+- PCI DSS compliance for payment card data
+- KYC/AML requirements
+
+HEALTHTECH:
+- US: FDA approval (medical devices), HIPAA (health data privacy)
+- India: CDSCO registration, Clinical Establishment Act
+- ISO 13485 (medical device quality management)
+
+EDTECH:
+- FERPA compliance (US, student data)
+- India: UGC guidelines for online courses
+- COPPA (children under 13, US)
+
+FOODTECH:
+- FSSAI license (India), FDA registration (US)
+- Food safety certifications
+- Packaging and labeling regulations
+
+=== COMPLIANCE CALENDAR FOR INDIAN STARTUPS ===
+- GST Registration: Mandatory if turnover > INR 20 lakhs (services)
+- GST Return Filing: Monthly/Quarterly (GSTR-1, GSTR-3B)
+- TDS (Tax Deducted at Source): Monthly payment, quarterly returns
+- Annual ROC Filing: Form AOC-4 (financial statements), MGT-7 (annual return)
+- Income Tax Return: By September 30 (with audit), July 31 (without)
+- DPIIT Renewal: Not required (one-time recognition)
+- PF/ESI Registration: When employee count exceeds 20 (PF) or 10 (ESI)
